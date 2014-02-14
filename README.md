@@ -33,7 +33,7 @@ Das Kassenbuch ist responsive gestaltet, sodass Sie diese auch auf Smartphones b
 - Kinderleichte Installation
 
 [![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)
-[![html light](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)
+[![html light](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)
 
 ===== Copyright =====
 
