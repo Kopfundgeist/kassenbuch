@@ -1,6 +1,8 @@
 Kassenbuch
 ==========
 
+[![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)
+
 Vielen Dank das sie das Kassenbuch heruntergeladen haben.
 Das Kassenbuch ist eine mit PHP Programmierte Datenbank. 
 Sie können Einträge hinzufügen, ändern und löschen.
@@ -32,9 +34,9 @@ Das Kassenbuch ist responsive gestaltet, sodass Sie diese auch auf Smartphones b
 - Blätterfunktion bei vielen Einträgen
 - Kinderleichte Installation
 
-[![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb3.png)
 [![html light](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)
 
+[![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)
 ===== Copyright =====
 
 Diese Kassenbuch ist geistiges Eigentum von Tayfun Gülcan und der Agentur Kopfundgeist GbR. Das Copyright darf in keinen der Dateien entfernt werden. 
