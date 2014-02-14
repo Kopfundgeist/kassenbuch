@@ -28,6 +28,7 @@ Das Kassenbuch arbeitet mit einer MySQL Datenbank zusammen - sämtliche Daten we
 Das Kassenbuch ist responsive gestaltet, sodass Sie diese auch auf Smartphones bequem nutzen können.
 
 ======= Features: ========
+[![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)
 
 - Einträge hinzufügen, verändern oder löschen
 - Responsive (Smartphone und Tabletgängig Programmiert)
@@ -36,7 +37,6 @@ Das Kassenbuch ist responsive gestaltet, sodass Sie diese auch auf Smartphones b
 
 [![html light](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb1.png)
 
-[![html dark](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)](http://kopfundgeist.de/wp-content/uploads/2013/12/ksb2.png)
 ===== Copyright =====
 
 Diese Kassenbuch ist geistiges Eigentum von Tayfun Gülcan und der Agentur Kopfundgeist GbR. Das Copyright darf in keinen der Dateien entfernt werden. 
