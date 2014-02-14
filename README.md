@@ -32,6 +32,9 @@ Das Kassenbuch ist responsive gestaltet, sodass Sie diese auch auf Smartphones b
 - Blätterfunktion bei vielen Einträgen
 - Kinderleichte Installation
 
+[![html dark](https://github.com/altercation/solarized/raw/master/img/screen-html-dark-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-html-dark.png)
+[![html light](https://github.com/altercation/solarized/raw/master/img/screen-html-light-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-html-light.png)
+
 ===== Copyright =====
 
 Diese Kassenbuch ist geistiges Eigentum von Tayfun Gülcan und der Agentur Kopfundgeist GbR. Das Copyright darf in keinen der Dateien entfernt werden. 
